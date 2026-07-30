@@ -8,5 +8,5 @@
 # EXERCICIO 01 Cadastro de Livro
 
 
-O Erro está a partir da linha "<titulo>Banco de Dados" , está faltando o seguinte código " </titulo>" Este código fecha o "<devidamente.
+O Erro está a partir da linha "<titulo> Banco de Dados" , está faltando o seguinte código " </titulo>" Este código fecha o "<devidamente.
 
