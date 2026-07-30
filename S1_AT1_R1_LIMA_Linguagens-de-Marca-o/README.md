@@ -1,6 +1,6 @@
 # LIMA
 Um Curriculo feito por VSCODE com intuito de apresentar um aluno.
-Tecnologias Usadas:
+### Tecnologias Usadas:
 * VSCODE
 * Typescript
 
