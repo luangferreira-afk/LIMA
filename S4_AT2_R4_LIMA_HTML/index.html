@@ -43,9 +43,11 @@
         
         }
         li {
-            flex: 1;
-            text-align: center;
+        border-right: 2px solid black;      
+        padding: 0 20px;
+
         }
+
 </style>
 
 </head>
@@ -107,8 +109,25 @@
                     <td>R$ 100,00</td>
                     <td>Mouse óptico com sensor de alta precisão, ideal para jogos.</td>
                 </tr>
+            </table>
 
+            <fieldset>
+                <legend>Dados do Cliente</legend>
+                <form action="">
+                    <label for="nome"> Nome:</label>
+                    <input type="text" id="nome" name="nome">
+                    <br></br>
 
+                    <label for="email"> Email:</label>
+                    <input type="email" id="email" name="email">
+                    <br></br>
+                    <label for="telefone"> Telefone:</label>
+                    <input type="tel" id="telefone" name="telefone">
+                    <br></br>
+                    <input type="submit" value="Enviar">
+
+                </form>
+            </fieldset>
 
     <footer>
         <p>© 2026 Loja Virtual de Computadores Gamer. Todos os direitos reservados.</p>
